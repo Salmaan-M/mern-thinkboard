@@ -65,8 +65,5 @@ All endpoints return data in JSON format.
 - Build the React frontend: `npm run build`
 - Connect to MongoDB Atlas
 - Configure production environment variables
-- Deploy backend and frontend (Heroku, Vercel, Render, etc.)
-
-## Credits
-
-Based on Codesistency’s "MERN Stack Tutorial for Beginners - Deployment Included".
+- Deployed in render.com
+  
